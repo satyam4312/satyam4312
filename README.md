@@ -26,7 +26,7 @@
 
 ## `$ whoami`
 
-I'm **Satyam Chaurasiya**, an Integrated Dual Degree (BTech + MTech) student at IIT (BHU) Varanasi, aspiring **AI/ML Engineer** and interested in building data-driven applications with Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+I'm **Satyam Chaurasiya**, an Integrated-Dual-Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi, aspiring **AI/ML Engineer** and interested in building data-driven applications with Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
 I enjoy working across the end-to-end ML lifecycle: understanding a problem, preparing data, developing and evaluating models, and building interfaces that make model outputs useful.
 
