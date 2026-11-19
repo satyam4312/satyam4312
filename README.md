@@ -26,7 +26,7 @@
 
 ## `$ whoami`
 
-I'm **Satyam Chaurasiya**, a B.Tech student and aspiring **AI/ML Engineer** interested in building data-driven applications with Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+I'm **Satyam Chaurasiya**, an Integrated Dual Degree (BTech + MTech) student at IIT (BHU) Varanasi, aspiring **AI/ML Engineer** and interested in building data-driven applications with Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
 I enjoy working across the end-to-end ML lifecycle: understanding a problem, preparing data, developing and evaluating models, and building interfaces that make model outputs useful.
 
@@ -42,8 +42,8 @@ I enjoy working across the end-to-end ML lifecycle: understanding a problem, pre
 
 ## `$ education`
 
-- **Degree:** Bachelor of Technology (B.Tech)
-- **Focus areas:** Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
+- **Degree:**  Integrated Dual Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi
+- **Focus areas:** Artificial Intelligence, Data Science, Machine Learning, Deep Learning, Generative AI and Agentic AI 
 
 ---
 
@@ -51,13 +51,13 @@ I enjoy working across the end-to-end ML lifecycle: understanding a problem, pre
 
 | Area | Technologies |
 | --- | --- |
-| Programming | Python, C++, SQL |
+| Programming | Python, SQL, C++ |
 | Data analysis | NumPy, Pandas, Matplotlib, Seaborn |
 | Machine Learning | Scikit-learn, XGBoost |
 | Deep Learning | PyTorch, TensorFlow, Keras |
 | Computer Vision | OpenCV, CNNs, image classification, semantic segmentation |
 | Generative AI | LLMs, RAG, LangChain, embeddings, vector search |
-| Tools & deployment | Git, GitHub, Jupyter, VS Code, Streamlit |
+| Tools & deployment | Git, GitHub, Jupyter, VS Code, Streamlit, FastAPI |
 
 ---
 
@@ -119,17 +119,6 @@ A semantic-segmentation project that uses a VGG16-based U-Net architecture to id
 - Retrieval-Augmented Generation and LLM applications.
 - Predictive modelling for engineering and business problems.
 - Model evaluation, reproducibility, and deployment.
-
----
-
-## `$ github_activity`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=satyam4312&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam4312&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-</div>
 
 ---
 
