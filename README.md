@@ -1,147 +1,64 @@
-<!-- ================= PREMIUM DARK HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:1E1B4B,100:4F46E5&height=210&section=header&text=Satyam%20Chaurasiya&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20ENGINEER%20%7C%20COMPUTER%20VISION%20%7C%20GENERATIVE%20AI&descAlignY=59&descSize=15" width="100%" />
+# Hi, I'm Satyam Chaurasiya 👋
 
-<a href="https://github.com/satyam4312">
-  <img src="https://img.shields.io/badge/GitHub-satyam4312-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/satyam-chaurasiya-6826a3258">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:satyamchaurasia442@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+Aspiring AI/ML Engineer | Deep Learning | Computer Vision | GenAI
 
-<br/><br/>
+🎓 Integrated Dual-Degree (B.Tech + M.Tech) Student at **IIT (BHU), Varanasi**
 
-### Building practical AI systems — from data and model development to usable applications.
+Passionate about building AI-powered solutions that turn data into insights, images into understanding, and language models into impactful applications. I leverage Machine Learning, Deep Learning, and Generative AI to develop intelligent solutions that address real-world challenges and drive innovation.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=satyam4312&style=flat-square&color=6366f1)](https://github.com/satyam4312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-chaurasiya-6826a3258)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/satyam4312)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamchaurasia442@gmail.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🚀 Featured Projects
 
-I'm **Satyam Chaurasiya**, an Integrated-Dual-Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi, aspiring **AI/ML Engineer** and interested in building data-driven applications with Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+### 1. AI Meeting Assistant — RAG
+An AI-powered assistant that transcribes meetings and videos, generates summaries and action items, and answers context-aware questions.
 
-I enjoy working across the end-to-end ML lifecycle: understanding a problem, preparing data, developing and evaluating models, and building interfaces that make model outputs useful.
+**Tech:** `Python` `Whisper` `LangChain` `ChromaDB` `Groq` `Streamlit`
 
-- Developing machine-learning and deep-learning projects.
-- Exploring Computer Vision, image processing, and signal classification.
-- Building LLM-powered applications using Retrieval-Augmented Generation (RAG).
-- Applying AI/ML methods to engineering and real-world problem domains.
-- Improving my skills in model evaluation, deployment, and software engineering.
+🔗 [View Repository](https://github.com/satyam4312/AI-Meeting-Assistant-Using-RAG)
 
-**Career objective:** AI/ML Engineer internships and entry-level opportunities.
+### 2. Composite Material Damage Classification
+An image and acoustic-signal classification prototype for identifying damage in composite materials.
 
----
+**Tech:** `Python` `PyTorch` `ResNet-18` `Computer Vision` `Signal Processing`
 
-## `$ education`
+🔗 [View Repository](https://github.com/satyam4312/Damage-Classification-in-Composite-Materials)
 
-- **Degree:**  Integrated Dual Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi
-- **Focus areas:** Artificial Intelligence, Data Science, Machine Learning, Deep Learning, Generative AI and Agentic AI 
+### 3. Lane Segmentation for Vehicle Navigation
+A VGG16-based U-Net model for semantic lane segmentation, integrated into an interactive application.
 
----
+**Tech:** `Python` `TensorFlow` `Keras` `VGG16` `U-Net` `OpenCV` `Streamlit`
 
-## `$ technical_stack`
-
-| Area | Technologies |
-| --- | --- |
-| Programming | Python, SQL, C++ |
-| Data analysis | NumPy, Pandas, Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn, XGBoost |
-| Deep Learning | PyTorch, TensorFlow, Keras |
-| Computer Vision | OpenCV, CNNs, image classification, semantic segmentation |
-| Generative AI | LLMs, RAG, LangChain, embeddings, vector search |
-| Tools & deployment | Git, GitHub, Jupyter, VS Code, Streamlit, FastAPI |
+🔗 [View Repository](https://github.com/satyam4312/Lane-Segmentation-for-Vehicle-Navigation-using-VGG16-UNet)
 
 ---
 
-## `$ selected_projects`
+## 🛠️ Technical Skills
 
-### 01 · AI Meeting Assistant — RAG
-
-**Python · Whisper · Sarvam AI · LangChain · ChromaDB · Groq · Streamlit**
-
-An AI-powered meeting and video assistant that accepts recordings or YouTube URLs, transcribes speech, generates summaries and action items, and supports context-aware question answering over the transcript.
-
-**What it demonstrates**
-- Audio/video ingestion and speech-to-text workflows.
-- Transcript chunking, embeddings, and vector retrieval.
-- RAG-based question answering grounded in source content.
-- An interactive Streamlit application.
-
-[**Explore the repository →**](https://github.com/satyam4312/AI-Meeting-Assistant-Using-RAG)
+| Category | Skills & Technologies |
+|---|---|
+| **Programming** | Python · C++ · SQL |
+| **Machine Learning** | Scikit-learn · XGBoost · Feature Engineering |
+| **Deep Learning** | PyTorch · TensorFlow · Keras |
+| **AI & Generative AI** | Computer Vision · CNN · Transformers · RAG · LLMs |
+| **Data Science** | Pandas · NumPy · Matplotlib · Seaborn |
+| **Tools & Development** | Git · GitHub · VS Code · Jupyter Notebook · Streamlit |
 
 ---
 
-### 02 · Composite Material Damage Classification
+## 📫 Let's Connect
 
-**Python · PyTorch · ResNet-18 · Computer Vision · Signal Processing · Streamlit**
+I'm interested in **AI/ML internships, research collaborations, and opportunities to build meaningful products.**
 
-A composite-material inspection prototype with two independent classification workflows: image-based healthy/damaged classification and acoustic-emission signal classification.
-
-**What it demonstrates**
-- Separate image and signal ML pipelines.
-- ResNet-18-based classification.
-- Signal visualization using waveform and spectrogram representations.
-- Model inference through a Streamlit interface.
-
-**Dataset note:** The repository documents synthetic datasets (120 images and 300 signal records). Results should be interpreted as prototype evaluation, not as evidence of validated performance on real aircraft inspection data.
-
-[**Explore the repository →**](https://github.com/satyam4312/Damage-Classification-in-Composite-Materials)
-
+- 💼 LinkedIn: [Satyam Chaurasiya](https://www.linkedin.com/in/satyam-chaurasiya-6826a3258)
+- 📧 Email: [satyamchaurasia442@gmail.com](mailto:satyamchaurasia442@gmail.com)
+- 💻 GitHub: [@satyam4312](https://github.com/satyam4312)
 ---
-
-### 03 · Lane Segmentation for Vehicle Navigation
-
-**Python · TensorFlow · Keras · VGG16 · U-Net · OpenCV · Streamlit**
-
-A semantic-segmentation project that uses a VGG16-based U-Net architecture to identify lane regions for vehicle-navigation applications.
-
-**What it demonstrates**
-- Encoder-decoder deep-learning architecture.
-- Image preprocessing and segmentation inference.
-- Integration of a trained model into an interactive application.
-
-[**Explore the repository →**](https://github.com/satyam4312/Lane-Segmentation-for-Vehicle-Navigation-using-VGG16-UNet)
-
----
-
-## `$ engineering_interests`
-
-- Computer Vision and visual inspection.
-- Deep learning for image and time-series/signal data.
-- Retrieval-Augmented Generation and LLM applications.
-- Predictive modelling for engineering and business problems.
-- Model evaluation, reproducibility, and deployment.
-
----
-
-## `$ connect`
-
-I'm open to discussing AI/ML internships, entry-level roles, research collaborations, and practical project opportunities.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/satyam-chaurasiya-6826a3258">
-  <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Chaurasiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-</a>
-<a href="mailto:satyamchaurasia442@gmail.com">
-  <img src="https://img.shields.io/badge/Email-satyamchaurasia442%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Satyam" />
-</a>
-
-<br/><br/>
-
-**Resume:** Available on request.  
-**GitHub:** [github.com/satyam4312](https://github.com/satyam4312)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,55:1E1B4B,100:09090B&height=110&section=footer" width="100%" />
-
-</div>
