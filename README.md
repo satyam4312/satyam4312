@@ -2,7 +2,7 @@
 
 # Hi, I'm Satyam Chaurasiya 👋
 
-Aspiring AI/ML Engineer | Deep Learning | Computer Vision | Generative AI
+Aspiring AI/ML Engineer | Deep Learning | Computer Vision | GenAI
 
 🎓 Integrated Dual-Degree (B.Tech + M.Tech) Student at **IIT (BHU), Varanasi**
 
@@ -56,7 +56,7 @@ An image and acoustic-signal classification prototype for identifying damage in 
 
 ## 📫 Let's Connect
 
-I'm interested in **AI/ML internships, research collaborations, and opportunities to build meaningful products.**
+I'm interested in **research collaborations and opportunities to build meaningful products.**
 
 - 💼 LinkedIn: [Satyam Chaurasiya](https://www.linkedin.com/in/satyam-chaurasiya-6826a3258)
 - 📧 Email: [satyamchaurasia442@gmail.com](mailto:satyamchaurasia442@gmail.com)
