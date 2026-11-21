@@ -2,7 +2,7 @@
 
 # Hi, I'm Satyam Chaurasiya 👋
 
-Aspiring AI/ML Engineer | Deep Learning | Computer Vision | GenAI
+Aspiring AI/ML Engineer | Deep Learning | Computer Vision | Generative AI
 
 🎓 Integrated Dual-Degree (B.Tech + M.Tech) Student at **IIT (BHU), Varanasi**
 
@@ -18,26 +18,26 @@ Passionate about building AI-powered solutions that turn data into insights, ima
 
 ## 🚀 Featured Projects
 
-### 1. AI Meeting Assistant — RAG
+### 1. AI Meeting Assistant — RAG based meeting intelligence
 An AI-powered assistant that transcribes meetings and videos, generates summaries and action items, and answers context-aware questions.
 
 **Tech:** `Python` `Whisper` `LangChain` `ChromaDB` `Groq` `Streamlit`
 
 🔗 [View Repository](https://github.com/satyam4312/AI-Meeting-Assistant-Using-RAG)
 
-### 2. Composite Material Damage Classification
-An image and acoustic-signal classification prototype for identifying damage in composite materials.
-
-**Tech:** `Python` `PyTorch` `ResNet-18` `Computer Vision` `Signal Processing`
-
-🔗 [View Repository](https://github.com/satyam4312/Damage-Classification-in-Composite-Materials)
-
-### 3. Lane Segmentation for Vehicle Navigation
+### 2. Lane Segmentation for Vehicle Navigation
 A VGG16-based U-Net model for semantic lane segmentation, integrated into an interactive application.
 
 **Tech:** `Python` `TensorFlow` `Keras` `VGG16` `U-Net` `OpenCV` `Streamlit`
 
 🔗 [View Repository](https://github.com/satyam4312/Lane-Segmentation-for-Vehicle-Navigation-using-VGG16-UNet)
+
+### 3. Composite Material Damage Classification
+An image and acoustic-signal classification prototype for identifying damage in composite materials.
+
+**Tech:** `Python` `PyTorch` `ResNet-18` `Computer Vision` `Signal Processing`
+
+🔗 [View Repository](https://github.com/satyam4312/Damage-Classification-in-Composite-Materials)
 
 ---
 
